@@ -31,7 +31,7 @@ function App() {
     */}
   return (
     <>
-    <h1>Admission Form</h1>
+    <h1>Registration Form</h1>
     
     <input type="text" placeholder='ENTER YOUR NAME'  onChange={(e)=>setName(e.target.value)}></input><br></br>
     <input type="text" placeholder='ENTER YOUR EMAIL'  onChange={(e)=>setemail(e.target.value)}></input><br></br>
