@@ -6,9 +6,9 @@ function App() {
     <>
       <h2>Student Information details</h2>
 
-      <Student2 name="ujjwal" course="B.tech" marks="90" />
-      <Student2 name="subhan" course="M.tech" marks="95" />
-      <Student2 name="vikhyat" course="MCA" marks="99" />
+      <Student2 name="vansh" course="B.tech" marks="90" />
+      <Student2 name="srajan" course="M.tech" marks="95" />
+      <Student2 name="tyagi" course="MCA" marks="99" />
       
     </>
   )
