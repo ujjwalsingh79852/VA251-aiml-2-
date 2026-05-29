@@ -80,7 +80,7 @@ button{
 #center {
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 20px;
   place-content: center;
   place-items: center;
   flex-grow: 1;
