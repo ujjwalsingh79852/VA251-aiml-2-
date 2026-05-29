@@ -10,7 +10,7 @@ import { useState } from 'react'
               setCount(0)   }  
   return (  
        <>   
-        <h2>React Counter Application</h2>
+        <h2> Counter Application</h2>
         <h2>{count}</h2>     
         <button onClick={increment}>Increment</button>  <br /><br /> 
         <button onClick={decrement}>Decrement</button> <br /><br />  
